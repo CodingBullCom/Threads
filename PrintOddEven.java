@@ -1,3 +1,12 @@
+// File: PrintOddEven.java
+// Created on: 23rd Nov 2018
+// Updated on: 30th Nov 2018
+// Author: Pawan Kumar Singh [pawan@codingbull.com]
+// http://www.codingbull.com
+//
+// This source code is the part of free tutorial series provided by http://www.codingbull.com and
+// it can be used/distributed without any restriction.
+
 import java.util.*;
 
 class Printer {
